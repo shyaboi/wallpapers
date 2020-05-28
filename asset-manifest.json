@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/wallpapers/static/css/main.e8f2fb89.chunk.css",
+    "main.js": "/github.io/wallpapers/static/js/main.57544ad2.chunk.js",
+    "main.js.map": "/github.io/wallpapers/static/js/main.57544ad2.chunk.js.map",
+    "runtime-main.js": "/github.io/wallpapers/static/js/runtime-main.3ee4e4c8.js",
+    "runtime-main.js.map": "/github.io/wallpapers/static/js/runtime-main.3ee4e4c8.js.map",
+    "static/js/2.789c8dec.chunk.js": "/github.io/wallpapers/static/js/2.789c8dec.chunk.js",
+    "static/js/2.789c8dec.chunk.js.map": "/github.io/wallpapers/static/js/2.789c8dec.chunk.js.map",
+    "index.html": "/github.io/wallpapers/index.html",
+    "precache-manifest.6e0f59109699f82099d424eb31f0e3f4.js": "/github.io/wallpapers/precache-manifest.6e0f59109699f82099d424eb31f0e3f4.js",
+    "service-worker.js": "/github.io/wallpapers/service-worker.js",
+    "static/css/main.e8f2fb89.chunk.css.map": "/github.io/wallpapers/static/css/main.e8f2fb89.chunk.css.map",
+    "static/js/2.789c8dec.chunk.js.LICENSE.txt": "/github.io/wallpapers/static/js/2.789c8dec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ee4e4c8.js",
+    "static/js/2.789c8dec.chunk.js",
+    "static/css/main.e8f2fb89.chunk.css",
+    "static/js/main.57544ad2.chunk.js"
+  ]
+}
