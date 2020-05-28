@@ -1,5 +1,4 @@
 #wallBox {
-    background: purple;
     margin: 1em;
     display: flex;
     flex-wrap: wrap;
@@ -7,6 +6,7 @@
     -webkit-box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
     -moz-box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
     box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
+    align-items: flex-start;
 }
 
 #picBox {
@@ -19,6 +19,7 @@
     margin-left: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
+    word-wrap: break-word;
 }
 
 img {
@@ -26,3 +27,11 @@ img {
     max-height: 100%;
 }
 
+#linkBox{
+    text-align: center;
+    font-size: calc(2vh + .05vh);
+    margin: .3em;
+    -webkit-box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
+    -moz-box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
+    box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
+}
