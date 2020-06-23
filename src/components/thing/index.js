@@ -3,7 +3,7 @@ import "./style.css";
 import pic from "../../images/ok.jpg";
 import pic2 from "../../images/ok2.jpg";
 
-const names = [{pic}, {pic2}]
+const names = [pic, pic2]
 
 
 function Donus() {

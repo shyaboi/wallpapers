@@ -8,7 +8,7 @@ var path = require('path');
 
 
 try {
-  const arrayOfFiles = fs.readdirSync("../FileServer")
+  const arrayOfFiles = fs.readdirSync("../FileServer/img")
   console.log(arrayOfFiles)
 } catch(e) {
   console.log(e)
@@ -25,7 +25,7 @@ http.createServer(function (req, res) {
        
       var oldpath = files.filetoupload.path;
       console.log(oldpath);
-      var newpath =  date + 'Walls' + files.filetoupload.name;
+      var newpath = "../FileServer/img/"+ date + 'Walls' + files.filetoupload.name;
       console.log(newpath);
       fs.rename(oldpath, newpath, function (err) {
         path.dirname("FileServer/img/")
