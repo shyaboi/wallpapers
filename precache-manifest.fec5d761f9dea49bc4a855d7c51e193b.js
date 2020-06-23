@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b9de5f0b7859186ea07582f04296a36",
+    "revision": "305a95c21d8b9cd7bb7904685a49b30e",
     "url": "/github.io/wallpapers/index.html"
   },
   {
-    "revision": "d574fb8c71aa11c704fd",
+    "revision": "f7b8d096384c2c32288e",
     "url": "/github.io/wallpapers/static/css/main.51146142.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/wallpapers/static/js/2.59fafd22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d574fb8c71aa11c704fd",
-    "url": "/github.io/wallpapers/static/js/main.8dec7111.chunk.js"
+    "revision": "f7b8d096384c2c32288e",
+    "url": "/github.io/wallpapers/static/js/main.362a423b.chunk.js"
   },
   {
     "revision": "98208647ef0cd8149226",
