@@ -8,7 +8,7 @@ function Navbar() {
     <nav id="nav" className="navbar" style={{ textDecoration: "none" }}>
           <ul id="navList" style={{ textDecoration: "none" }}>
             <li style={{ textDecoration: "none" }}>Muhalls</li>
-            <li>things</li>
+            <li><a href="http://localhost:4000">Uplad</a></li>
 
           </ul>
     </nav>

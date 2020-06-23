@@ -6,7 +6,6 @@ var path = require('path');
 
 
 
-
 try {
   const arrayOfFiles = fs.readdirSync("../FileServer/img")
   console.log(arrayOfFiles)
