@@ -1,6 +1,19 @@
 var http = require('http');
 var formidable = require('formidable');
 var fs = require('fs');
+var path = require('path');
+
+
+
+
+
+try {
+  const arrayOfFiles = fs.readdirSync("../FileServer")
+  console.log(arrayOfFiles)
+} catch(e) {
+  console.log(e)
+}
+
 
 http.createServer(function (req, res) {
     // date stamp
@@ -11,10 +24,13 @@ http.createServer(function (req, res) {
     form.parse(req, function (err, fields, files) {
        
       var oldpath = files.filetoupload.path;
-      var newpath = date + 'Walls' + files.filetoupload.name;
+      console.log(oldpath);
+      var newpath =  date + 'Walls' + files.filetoupload.name;
+      console.log(newpath);
       fs.rename(oldpath, newpath, function (err) {
+        path.dirname("FileServer/img/")
         if (err) throw err;
-        res.write('File uploaded!');
+        res.write('File uploaded!' + newpath);
         res.end();
       });
  });
