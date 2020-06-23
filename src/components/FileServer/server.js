@@ -2,6 +2,8 @@ var http = require('http');
 var formidable = require('formidable');
 var fs = require('fs');
 var path = require('path');
+var PORT = process.env.port || 4000;
+
 
 
 
@@ -29,7 +31,7 @@ http.createServer(function (req, res) {
       fs.rename(oldpath, newpath, function (err) {
         path.dirname("FileServer/img/")
         if (err) throw err;
-        res.write('File uploaded!' + newpath);
+        res.write('File uploaded!' + '<a href=newpath>link</a>');
         res.end();
       });
  });
@@ -41,4 +43,5 @@ http.createServer(function (req, res) {
     res.write('</form>');
     return res.end();
   }
-}).listen(4000);
+}).listen(PORT);
+console.log("Server Started on " + PORT);
