@@ -1,2 +1,2 @@
-web: node ../FileServer/server.js
+web: node src/components/FileServer/server.js
 
