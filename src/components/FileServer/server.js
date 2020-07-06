@@ -5,7 +5,7 @@ var path = require('path');
 var express = require('express')
 var app = express()
 var PORT = process.env.port || 4000;
-
+const homePORT = process.env.PORT || 3000
 
 
 
@@ -35,7 +35,7 @@ http.createServer(function (req, res) {
         path.dirname("FileServer/img/")
         if (err) throw err;
         // var newSclice = newpath.slice(2);
-        res.write(`<h1><a href="http://localhost:3000">home</a></h1>` + '<h1>your has been uploaded</h1>');
+        res.write(`<h1><a href="http://localhost:${homePORT}">home</a></h1>` + '<h1>your has been uploaded</h1>');
 
         // `<img src="http://localhost:4000/static/media${newSclice}">ok</img>`
         res.end();
