@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github.io/wallpapers/static/css/main.5ffeccc5.chunk.css",
-    "main.js": "/github.io/wallpapers/static/js/main.362a423b.chunk.js",
-    "main.js.map": "/github.io/wallpapers/static/js/main.362a423b.chunk.js.map",
+    "main.css": "/github.io/wallpapers/static/css/main.a3ccc401.chunk.css",
+    "main.js": "/github.io/wallpapers/static/js/main.c3b349c5.chunk.js",
+    "main.js.map": "/github.io/wallpapers/static/js/main.c3b349c5.chunk.js.map",
     "runtime-main.js": "/github.io/wallpapers/static/js/runtime-main.3ee4e4c8.js",
     "runtime-main.js.map": "/github.io/wallpapers/static/js/runtime-main.3ee4e4c8.js.map",
-    "static/js/2.59fafd22.chunk.js": "/github.io/wallpapers/static/js/2.59fafd22.chunk.js",
-    "static/js/2.59fafd22.chunk.js.map": "/github.io/wallpapers/static/js/2.59fafd22.chunk.js.map",
+    "static/js/2.789c8dec.chunk.js": "/github.io/wallpapers/static/js/2.789c8dec.chunk.js",
+    "static/js/2.789c8dec.chunk.js.map": "/github.io/wallpapers/static/js/2.789c8dec.chunk.js.map",
     "index.html": "/github.io/wallpapers/index.html",
-    "precache-manifest.37f630b6812e98ebb2413ad6c57ea5b8.js": "/github.io/wallpapers/precache-manifest.37f630b6812e98ebb2413ad6c57ea5b8.js",
+    "precache-manifest.7c541128032f526fd2807c328a6b70db.js": "/github.io/wallpapers/precache-manifest.7c541128032f526fd2807c328a6b70db.js",
     "service-worker.js": "/github.io/wallpapers/service-worker.js",
-    "static/css/main.5ffeccc5.chunk.css.map": "/github.io/wallpapers/static/css/main.5ffeccc5.chunk.css.map",
-    "static/js/2.59fafd22.chunk.js.LICENSE.txt": "/github.io/wallpapers/static/js/2.59fafd22.chunk.js.LICENSE.txt",
-    "static/media/ok.jpg": "/github.io/wallpapers/static/media/ok.a87867af.jpg",
-    "static/media/ok2.jpg": "/github.io/wallpapers/static/media/ok2.6d5d9095.jpg"
+    "static/css/main.a3ccc401.chunk.css.map": "/github.io/wallpapers/static/css/main.a3ccc401.chunk.css.map",
+    "static/js/2.789c8dec.chunk.js.LICENSE.txt": "/github.io/wallpapers/static/js/2.789c8dec.chunk.js.LICENSE.txt",
+    "static/media/Walls_MUH8694.jpg": "/github.io/wallpapers/static/media/Walls_MUH8694.f4c26689.jpg",
+    "static/media/Wallspewpew.png": "/github.io/wallpapers/static/media/Wallspewpew.254eeafb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3ee4e4c8.js",
-    "static/js/2.59fafd22.chunk.js",
-    "static/css/main.5ffeccc5.chunk.css",
-    "static/js/main.362a423b.chunk.js"
+    "static/js/2.789c8dec.chunk.js",
+    "static/css/main.a3ccc401.chunk.css",
+    "static/js/main.c3b349c5.chunk.js"
   ]
 }
