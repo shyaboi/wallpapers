@@ -29,7 +29,7 @@ img {
 
 #linkBox{
     text-align: center;
-    font-size: calc(2vh + .05vh);
+    font-size: 1.5em;
     margin: .3em;
     -webkit-box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
     -moz-box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
