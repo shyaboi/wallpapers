@@ -17,7 +17,7 @@ try {
   console.log(e)
 }
 
-
+let counter = 0
 http.createServer(function (req, res) {
     // date stamp var
     var date = new Date(Date.now())
@@ -26,10 +26,10 @@ http.createServer(function (req, res) {
   if (req.url == '/fileupload') {
     var form = new formidable.IncomingForm();
     form.parse(req, function (err, fields, files) {
-       
+      counter++
       var oldpath = files.filetoupload.path;
       console.log(oldpath);
-      var newpath = "../FileServer/img/"+'Walls' + files.filetoupload.name;
+      var newpath = "../FileServer/img/"+'Walls' + counter + files.filetoupload.name;
       console.log(newpath);
       fs.rename(oldpath, newpath, function (err) {
         path.dirname("FileServer/img/")
