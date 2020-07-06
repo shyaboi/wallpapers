@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github.io/wallpapers/static/css/main.51146142.chunk.css",
+    "main.css": "/github.io/wallpapers/static/css/main.5ffeccc5.chunk.css",
     "main.js": "/github.io/wallpapers/static/js/main.362a423b.chunk.js",
     "main.js.map": "/github.io/wallpapers/static/js/main.362a423b.chunk.js.map",
     "runtime-main.js": "/github.io/wallpapers/static/js/runtime-main.3ee4e4c8.js",
@@ -8,9 +8,9 @@
     "static/js/2.59fafd22.chunk.js": "/github.io/wallpapers/static/js/2.59fafd22.chunk.js",
     "static/js/2.59fafd22.chunk.js.map": "/github.io/wallpapers/static/js/2.59fafd22.chunk.js.map",
     "index.html": "/github.io/wallpapers/index.html",
-    "precache-manifest.fec5d761f9dea49bc4a855d7c51e193b.js": "/github.io/wallpapers/precache-manifest.fec5d761f9dea49bc4a855d7c51e193b.js",
+    "precache-manifest.37f630b6812e98ebb2413ad6c57ea5b8.js": "/github.io/wallpapers/precache-manifest.37f630b6812e98ebb2413ad6c57ea5b8.js",
     "service-worker.js": "/github.io/wallpapers/service-worker.js",
-    "static/css/main.51146142.chunk.css.map": "/github.io/wallpapers/static/css/main.51146142.chunk.css.map",
+    "static/css/main.5ffeccc5.chunk.css.map": "/github.io/wallpapers/static/css/main.5ffeccc5.chunk.css.map",
     "static/js/2.59fafd22.chunk.js.LICENSE.txt": "/github.io/wallpapers/static/js/2.59fafd22.chunk.js.LICENSE.txt",
     "static/media/ok.jpg": "/github.io/wallpapers/static/media/ok.a87867af.jpg",
     "static/media/ok2.jpg": "/github.io/wallpapers/static/media/ok2.6d5d9095.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.3ee4e4c8.js",
     "static/js/2.59fafd22.chunk.js",
-    "static/css/main.51146142.chunk.css",
+    "static/css/main.5ffeccc5.chunk.css",
     "static/js/main.362a423b.chunk.js"
   ]
 }
