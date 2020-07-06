@@ -8,7 +8,7 @@ function importAll(r) {
   return r.keys().map(r);
 }
 
-const names = importAll(require.context('../FileServer/img', false, /\.(png|jpe?g|svg)$/));
+const names = importAll(require.context('../FileServer/img', false, /\.(png|jpe?g|svg|nef)$/));
 // const names = [pic, pic2]
 
 
