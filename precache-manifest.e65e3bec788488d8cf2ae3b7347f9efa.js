@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b01532ee0f442b9bddb1a592564860d",
+    "revision": "5ed791e7b8118f0fb575c92eab25294a",
     "url": "/github.io/wallpapers/index.html"
   },
   {
-    "revision": "2ecf8f31505c60901285",
+    "revision": "b3673178996ceaef91ae",
     "url": "/github.io/wallpapers/static/css/main.a3ccc401.chunk.css"
   },
   {
@@ -16,18 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/wallpapers/static/js/2.789c8dec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ecf8f31505c60901285",
-    "url": "/github.io/wallpapers/static/js/main.14d6c3c9.chunk.js"
+    "revision": "b3673178996ceaef91ae",
+    "url": "/github.io/wallpapers/static/js/main.cbce9474.chunk.js"
   },
   {
     "revision": "98208647ef0cd8149226",
     "url": "/github.io/wallpapers/static/js/runtime-main.3ee4e4c8.js"
   },
   {
-    "url": "/github.io/wallpapers/static/media/Walls4e9b8261593cc7d865023928c9ee29b8.4e9b8261.jpg"
+    "revision": "647b9ee825bf86a9f08aa27932500707",
+    "url": "/github.io/wallpapers/static/media/Walls01489254169675.647b9ee8.jpg"
   },
   {
-    "url": "/github.io/wallpapers/static/media/Walls68dd53a71a86171cf7bfc876f5e3a3fd.68dd53a7.jpg"
+    "revision": "6ec3c3fff2250c39765e5ed481c0c561",
+    "url": "/github.io/wallpapers/static/media/Walls11493735596138.6ec3c3ff.jpg"
+  },
+  {
+    "revision": "1e61aa61b97fa6465cd8cbc2e230f7a7",
+    "url": "/github.io/wallpapers/static/media/Walls1RJNONOo.1e61aa61.jpg"
+  },
+  {
+    "revision": "34c7c79b2bc1109c61b54d75839c1066",
+    "url": "/github.io/wallpapers/static/media/Walls21492050815553.34c7c79b.jpg"
   },
   {
     "revision": "467948a0e325c40212111af7fff06d89",
