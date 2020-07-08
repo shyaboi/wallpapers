@@ -9,7 +9,6 @@ const homePORT = process.env.PORT || 3000
 
 
 
-
 try {
   const arrayOfFiles = fs.readdirSync("../FileServer/img")
   console.log(arrayOfFiles)
@@ -53,4 +52,12 @@ http.createServer(function (req, res) {
     return res.end();
   }
 }).listen(PORT);
+
+app.use(express.static(path.resolve(__dirname), 'build'))
+
+app.get('*', (req, res) => {
+  res.sendFile(path.resolve(__dirname, "build", "index.html"))
+})
+
+
 console.log("Server Started on " + PORT);
