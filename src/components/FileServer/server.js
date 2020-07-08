@@ -36,7 +36,6 @@ http.createServer(function (req, res) {
         // var newSclice = newpath.slice(2);
         res.write(`<h1><a href="http://localhost:${homePORT}">home</a></h1>` + '<h1>your has been uploaded</h1>');
 
-        // `<img src="http://localhost:4000/static/media${newSclice}">ok</img>`
         res.end();
       });
     });
