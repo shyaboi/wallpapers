@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 var PORT = process.env.port || 4000;
 let server = 'http://89a155458d5a.ngrok.io'
-let ping = "http://localhost:8080/ping"
+// let ping = "http://localhost:8080/ping"
 // import Home from "../../components/thing/icons/home.png";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
@@ -12,7 +12,7 @@ function Navbar() {
           <ul id="navList" style={{ textDecoration: "none" }}>
             <li style={{ textDecoration: "none" }}>Muhalls</li>
             <li><a href={server}>Uplad</a></li>
-            <li><a href={ping}>Ping</a></li>
+            {/* <li><a href={ping}>Ping</a></li> */}
 
 
           </ul>
