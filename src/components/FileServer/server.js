@@ -16,6 +16,9 @@ try {
   console.log(e)
 }
 
+app.get('/donus', (req, res) => res.send('Hello World!'))
+
+
 let counter = 0
 http.createServer(function (req, res) {
     // date stamp var
