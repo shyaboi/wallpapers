@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 var PORT = process.env.port || 4000;
-let server = "http://localhost:"+PORT+"/donus"
+let server = "http://localhost:"+PORT
 // import Home from "../../components/thing/icons/home.png";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item

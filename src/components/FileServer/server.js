@@ -7,6 +7,7 @@ var app = express()
 var PORT = process.env.port || 4000;
 const homePORT = process.env.PORT || 3000
 
+app.use(express.static(path.join(__dirname, 'build')))
 
 
 try {
@@ -16,7 +17,6 @@ try {
   console.log(e)
 }
 
-app.get('/donus', (req, res) => res.send('Hello World!'))
 
 
 let counter = 0
