@@ -20,7 +20,7 @@ function Donus() {
         <div id="picBox">
           <img src={name} alt="donus" />{" "}
           <div id="linkBox">
-            <a href={name}>Original</a>
+            <a href={name}>Full Screen</a>
           </div>
         </div>
       ))}
