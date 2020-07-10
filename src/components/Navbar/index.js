@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 var PORT = process.env.port || 4000;
-let server = 'http://89a155458d5a.ngrok.io'
+let server = 'http://f01473e0cd2f.ngrok.io'
 // let ping = "http://localhost:8080/ping"
 // import Home from "../../components/thing/icons/home.png";
 
