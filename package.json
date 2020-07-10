@@ -17,7 +17,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://shyaboi/github.io/wallpapers",
+  "homepage": "https://shyaboi.github.io/wallpapers/",
   "scripts": {
     "start": "concurrently \"cd src/components/FileServer && node server.js\" \"command2 arg\" \"react-scripts start\"",
     "build": "react-scripts build",
