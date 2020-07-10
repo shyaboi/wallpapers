@@ -43,7 +43,7 @@ http.createServer(function (req, res) {
         path.dirname("FileServer/img/")
         if (err) throw err;
         // var newSclice = newpath.slice(2);
-        res.write(`<h1><a href="https://dinguswallpapermassiv.herokuapp.com/">home</a></h1>` + '<h1>your has been uploaded</h1>');
+        res.write(`<h1><a href="https://dinguswallpapermassiv.herokuapp.com/">home</a></h1>` + '<h1>Your wallpaper has been uploaded, it will show up on the homepage in a minuet or two!</h1>');
 
         // `<img src="http://localhost:4000/static/media${newPa}">ok</img>`
         res.end();
