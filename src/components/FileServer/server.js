@@ -11,7 +11,7 @@ const exPORT = process.env.PORT || 8080
 
 app.use(express.static(path.join(__dirname, 'build')))
 
-app.get('/ping', (req, res) => {
+app.get('/', (req, res) => {
   return res.send('pong')
 })
 
