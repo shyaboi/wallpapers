@@ -15,6 +15,10 @@ app.get('/', (req, res) => {
   return res.send('pong')
 })
 
+app.get('*', (req,res) =>{
+  res.sendFile(path.join(__dirname+'/build/index.html'));
+});
+
 app.listen(exPORT)
 console.log("Server Started on " + exPORT)
 
