@@ -2,7 +2,7 @@ import React from "react";
 import "./style.css";
 // var PORT = process.env.port || 4000;
 let server = 'https://f01473e0cd2f.ngrok.io'
-let ping = "/ping"
+let ping = "http://localhost:"+process.env.PORT || 4000
 // import Home from "../../components/thing/icons/home.png";
 
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
