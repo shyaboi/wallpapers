@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-var PORT = process.env.port || 4000;
+// var PORT = process.env.port || 4000;
 let server = 'https://f01473e0cd2f.ngrok.io'
 // let ping = "http://localhost:8080/ping"
 // import Home from "../../components/thing/icons/home.png";
@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <nav id="nav" className="navbar" style={{ textDecoration: "none" }}>
           <ul id="navList" style={{ textDecoration: "none" }}>
-            <li style={{ textDecoration: "none" }}>Muhalls</li>
+            <li style={{ textDecoration: "none" }}>MuhWalls</li>
             <li><a href={server}>Uplad</a></li>
             {/* <li><a href={ping}>Ping</a></li> */}
 
