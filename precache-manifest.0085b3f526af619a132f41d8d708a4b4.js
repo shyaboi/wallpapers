@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a12e80b19680ea5d8f375235095132b",
+    "revision": "259598c5e387e66f08b6ca309f9cd007",
     "url": "/wallpapers/index.html"
   },
   {
-    "revision": "198991eeef4964686c1f",
+    "revision": "71bf4d44227f1cd8e1aa",
     "url": "/wallpapers/static/css/main.bc6681bf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wallpapers/static/js/2.789c8dec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "198991eeef4964686c1f",
-    "url": "/wallpapers/static/js/main.8a4c482c.chunk.js"
+    "revision": "71bf4d44227f1cd8e1aa",
+    "url": "/wallpapers/static/js/main.23e8c1b7.chunk.js"
   },
   {
     "revision": "6416ecb8b2ed5b9b3bbe",
@@ -320,6 +320,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f84dfbeceacc1b4719b776c310ec91f8",
     "url": "/wallpapers/static/media/Walls41493667035461.f84dfbec.jpg"
+  },
+  {
+    "revision": "c8df9d0d48b4877035133e11951533b4",
+    "url": "/wallpapers/static/media/Walls41493740924548.c8df9d0d.jpg"
   },
   {
     "revision": "addafa3b007a9007a3d3dd7e0397c0fc",
