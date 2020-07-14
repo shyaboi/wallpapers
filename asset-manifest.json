@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wallpapers/static/css/main.bc6681bf.chunk.css",
-    "main.js": "/wallpapers/static/js/main.23e8c1b7.chunk.js",
-    "main.js.map": "/wallpapers/static/js/main.23e8c1b7.chunk.js.map",
+    "main.js": "/wallpapers/static/js/main.d595601e.chunk.js",
+    "main.js.map": "/wallpapers/static/js/main.d595601e.chunk.js.map",
     "runtime-main.js": "/wallpapers/static/js/runtime-main.b0eff253.js",
     "runtime-main.js.map": "/wallpapers/static/js/runtime-main.b0eff253.js.map",
     "static/js/2.789c8dec.chunk.js": "/wallpapers/static/js/2.789c8dec.chunk.js",
     "static/js/2.789c8dec.chunk.js.map": "/wallpapers/static/js/2.789c8dec.chunk.js.map",
     "index.html": "/wallpapers/index.html",
-    "precache-manifest.0085b3f526af619a132f41d8d708a4b4.js": "/wallpapers/precache-manifest.0085b3f526af619a132f41d8d708a4b4.js",
+    "precache-manifest.676fa4b9133738443ddae219838ef785.js": "/wallpapers/precache-manifest.676fa4b9133738443ddae219838ef785.js",
     "service-worker.js": "/wallpapers/service-worker.js",
     "static/css/main.bc6681bf.chunk.css.map": "/wallpapers/static/css/main.bc6681bf.chunk.css.map",
     "static/js/2.789c8dec.chunk.js.LICENSE.txt": "/wallpapers/static/js/2.789c8dec.chunk.js.LICENSE.txt",
@@ -97,6 +97,7 @@
     "static/media/Walls50503ebb421e2f4c89515934929e29534.jpg": "/wallpapers/static/media/Walls50503ebb421e2f4c89515934929e29534.0503ebb4.jpg",
     "static/media/Walls51496291446995.jpg": "/wallpapers/static/media/Walls51496291446995.e5209581.jpg",
     "static/media/Walls51499495254408.jpg": "/wallpapers/static/media/Walls51499495254408.e8c4f6c7.jpg",
+    "static/media/Walls52000f3f7ab5303bfc5fda3946ad44f5b.jpg": "/wallpapers/static/media/Walls52000f3f7ab5303bfc5fda3946ad44f5b.2000f3f7.jpg",
     "static/media/Walls52638376-digital-art-4k-wallpaper-hd-free.jpg": "/wallpapers/static/media/Walls52638376-digital-art-4k-wallpaper-hd-free.db1c1ad0.jpg",
     "static/media/Walls56456MUH8694.jpg": "/wallpapers/static/media/Walls56456MUH8694.f4c26689.jpg",
     "static/media/Walls576464MUH8555.jpg": "/wallpapers/static/media/Walls576464MUH8555.467948a0.jpg",
@@ -120,6 +121,6 @@
     "static/js/runtime-main.b0eff253.js",
     "static/js/2.789c8dec.chunk.js",
     "static/css/main.bc6681bf.chunk.css",
-    "static/js/main.23e8c1b7.chunk.js"
+    "static/js/main.d595601e.chunk.js"
   ]
 }
