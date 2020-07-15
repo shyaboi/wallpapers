@@ -12,8 +12,12 @@ const exPORT = process.env.PORT || 8080
 app.use(express.static(path.join(__dirname, 'build')))
 
 app.get('/', (req, res) => {
-  res.redirect('http://localhost:'+homePORT)
+  res.sendFile(path.join(__dirname, 'build', 'index.html'))
 })
+
+// app.get('/', (req, res) => {
+//   res.redirect('http://localhost:'+homePORT)
+// })
 
 app.get('/upload', (req, res) => {
  res.writeHead(200, {'Content-Type': 'text/html'});
