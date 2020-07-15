@@ -1,8 +1,6 @@
 #nav {
   float: center;
-  width: 98.3vw;
-  height: 10vh;
-  position: relative;
+  width: 100%;
   margin: 1em;
   -webkit-box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
   -moz-box-shadow: 0 2px 9px 5px rgba(41, 41, 40, 1);
@@ -10,14 +8,15 @@
 }
 
 #navList{
-  padding-top: 2vh;
+  height: 100%;
+  width: 100%;
   list-style: none;
   display: flex;
   /* background: #000; */
 }
 
 #navList > li {
-  padding-left: 2em;
-  font-size: 3em;
+  padding-left: 1vw;
+  font-size: 4vw;
 }
 

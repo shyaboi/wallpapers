@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
-// var PORT = process.env.port || 4000;
-let server = 'http://localhost:8080/upload'
+var PORT = process.env.port || 8080;
+let server = 'http://localhost:'+PORT+`/upload`
 
 // let ping = "http://localhost:"+process.env.PORT || 8080
 // import Home from "../../components/thing/icons/home.png";
